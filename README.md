@@ -77,7 +77,7 @@ The app requires the following permissions to function fully:
 
 ## 🚀 Installation
 
-1. Download the APK from [Releases](https://github.com/abdurrahman101bd/markdown-editor)
+1. Download the APK from [Releases](https://github.com/abdurrahman101bd/markdown-editor/releases/)
 2. Enable **"Install from unknown sources"** in your device settings
 3. Open the APK and install
 4. Launch **Markdown Editor**
