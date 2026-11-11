@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_primary">#121212</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#E0E0E0</color>
+    <color name="md_on_primary_container">#121212</color>
+    <color name="md_secondary">#2C2C2C</color>
+    <color name="md_on_secondary">#FFFFFF</color>
+    <color name="md_background">#F8F9FA</color>
+    <color name="md_on_background">#121212</color>
+    <color name="md_surface">#FFFFFF</color> 
+    <color name="md_on_surface">#121212</color>
+    <color name="md_surface_variant">#F1F3F4</color> 
+    <color name="md_on_surface_variant">#5F6368</color>
+    <color name="md_editor_card">#FFFFFF</color>
+    <color name="md_preview_card_border">#0F000000</color>
+    <color name="md_editor_card_border">#50000000</color>
+    <color name="md_text_primary">#121212</color>
+    <color name="md_text_secondary">#5F6368</color>
+    <color name="md_text_hint">#9AA0A6</color>
+    <color name="md_outline">#E0E0E0</color>
+    <color name="md_outline_variant">#EEEEEE</color>
+    <color name="md_divider">#1A000000</color>
+    <color name="md_selection_overlay">#1F000000</color>
+    <color name="md_ripple">#1F000000</color>
+    <color name="md_toolbar_bg">#F8F9FA</color>
+    <color name="md_toolbar_icon">#121212</color>
+    <color name="md_icon_active">#121212</color>
+    <color name="md_icon_inactive">#5F6368</color>
+    <color name="md_icon_disabled">#BDC1C6</color>
+    <color name="md_popup_bg">#FFFFFF</color>
+    <color name="md_popup_text">#121212</color>
+</resources>

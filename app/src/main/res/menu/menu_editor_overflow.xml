@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_open"
+        android:title="@string/menu_open"
+        android:icon="@drawable/ic_file_open" />
+    <item
+        android:id="@+id/menu_save"
+        android:title="@string/menu_save"
+        android:icon="@drawable/ic_save" />
+    <item
+        android:id="@+id/menu_save_as"
+        android:title="@string/menu_save_as"
+        android:icon="@drawable/ic_save_as" />
+    <item
+        android:id="@+id/menu_share"
+        android:title="@string/menu_share"
+        android:icon="@drawable/ic_share" />
+    <item
+        android:id="@+id/menu_clear"
+        android:title="@string/menu_clear"
+        android:icon="@drawable/ic_clear_all" />
+    <item
+        android:id="@+id/menu_print"
+        android:title="@string/menu_print"
+        android:icon="@drawable/ic_print" />
+    <item
+        android:id="@+id/menu_switch_layout"
+        android:title="@string/menu_switch_layout"
+        android:icon="@drawable/ic_rotate_left" />       
+    <item
+        android:id="@+id/menu_switch_view"
+        android:title="@string/menu_switch_view"
+        android:icon="@drawable/ic_menu_book" />
+    <item
+        android:id="@+id/menu_switch_theme"
+        android:title="@string/menu_switch_theme"
+        android:icon="@drawable/ic_sun" />
+
+</menu>
